@@ -1,2 +1,5 @@
 # Original, unoptimized photos (not used by the site)
 images/raw/
+
+.vercel
+.env*
